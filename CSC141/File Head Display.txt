@@ -1,0 +1,6 @@
+This is a test for the File Head Display (homework5.java)
+If it has fewer than 5 lines, read whole document. 
+This is the 3rd line. 
+This is the 4th line. 
+This is the 5th line.
+This is the 6th line. 
